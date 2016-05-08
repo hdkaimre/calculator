@@ -1,0 +1,5 @@
+<root>
+  <item name='java.awt.event.KeyEvent CHAR_UNDEFINED'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
